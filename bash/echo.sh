@@ -1,5 +1,5 @@
 #!/bin/bash
 while read LINE
 do
- echo "$line"
+ echo "$LINE"
 done
