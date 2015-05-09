@@ -2,6 +2,6 @@
 <?php
 	$stdin = fopen('php://stdin', 'r');
 	while ($line = fgets($stdin)) {
-		echo $line. "\n";
+		echo $line;
 	}
 ?>
